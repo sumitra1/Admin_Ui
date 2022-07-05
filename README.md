@@ -61,4 +61,5 @@ Sample Response:
         "role": "admin"
     }
 ]
-    
+ 
+ Deployed the site to Netlify : https://admin-ui-geekchallange.netlify.app/
