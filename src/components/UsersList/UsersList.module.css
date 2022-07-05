@@ -11,13 +11,13 @@
 .table tr {
     border-bottom: 1px solid black;
     text-align: left;
-    height: 10%;
+    height: 11%;
 }
 
 .table th {
     font-weight: bolder;
-    font-size: 1.2em;
-    padding: 4px 0 4px 0;
+    font-size: 1.3em;
+    padding: 3px 0 3px 0;
 }
 
 .table tbody {
@@ -25,5 +25,5 @@
 }
 
 .table td {
-    padding: 2px 0 4px 0;
+    padding: 3px 0 5px 0;
 }

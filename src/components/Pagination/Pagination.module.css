@@ -9,9 +9,9 @@
     border-radius: 50%;
     margin:10px;
     cursor: pointer;
-    height: 25px;
-    width: 25px;
-    line-height: 25px;
+    height: 24px;
+    width: 24px;
+    line-height: 24px;
 }
 
 
@@ -25,8 +25,8 @@
     margin-left: 10vw;
     background: #fc5373;
     color:white;
-    border-radius: 20px;
-    padding: 6px;
+    border-radius: 18px;
+    padding: 5px;
     margin-top:5px;
     cursor: pointer;
     
