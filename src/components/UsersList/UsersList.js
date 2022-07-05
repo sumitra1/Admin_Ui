@@ -6,10 +6,11 @@ import configObject from "../../constantsPageSize";
 import styles from "./UsersList.module.css";
 
 
-
+//it will give list of users
 //find user and show userList
 const ListOfUsers = (props) => {
-  const {
+  const
+   {
     selectAllRows,selectOneRow,selectAllRowRef,NumberOfUsers,deleteUserRow,editUserRow,saveUserData,setNumberOfPage,NumberOfPage,
   } = props;
   useEffect(() => {
